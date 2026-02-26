@@ -22,10 +22,3 @@ He usado slots para intercambiar staging y production, validando que el sitio vu
 
 ## Qué diría en entrevista
 “Slots me permiten desplegar sin riesgo: pruebo en staging y hago swap cuando está OK. Si algo sale mal, el rollback es inmediato.”
-Pasos y capturas
-1.	App Service → Ranuras de implementación → crea staging.
-📸 01.
-2.	Cambia contenido/config para simular fallo y haz Intercambiar (swap).
-📸 02 en la pantalla del swap.
-3.	Verifica que la web vuelve a OK tras revertir.
-📸 03 (Browse OK).
