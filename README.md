@@ -18,7 +18,7 @@ He usado slots para intercambiar staging y production, validando que el sitio vu
 <img src="images/02-swap.png" width="800">
 
 ### 03 – Web OK tras rollback
-<img src="images/03-rollback-ok.png" width="800">
+<img src="images/03-verificacion-slots.png" width="800">
 
 ## Qué diría en entrevista
 “Slots me permiten desplegar sin riesgo: pruebo en staging y hago swap cuando está OK. Si algo sale mal, el rollback es inmediato.”
