@@ -15,7 +15,7 @@ He usado slots para intercambiar staging y production, validando que el sitio vu
 <img src="images/01-slots-staging-production.png" width="800">
 
 ### 02 – Swap ejecutado
-<img src="images/02-swap.png" width="800">
+<img src="images/02-swap-staging-to-production.png" width="800">
 
 ### 03 – Web OK tras rollback
 <img src="images/03-verificacion-slots.png" width="800">
